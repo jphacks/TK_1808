@@ -1,4 +1,4 @@
-# サンプル（プロダクト名）
+# SheReco
 
 [![Product Name](public/icon.png)](https://youtu.be/osH5V4LAMPE)
 
